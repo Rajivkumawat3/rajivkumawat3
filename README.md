@@ -1,5 +1,8 @@
 # 💫 About Me:
-A passionate Full Stack Developer and currently I'm learning devOps and polishing my existing skills.I love solving problems related with backend. 
+<h1 align="center">Hi , I'm Rajiv</h1>
+<h3 align="center">A passionate Full Stack Developer and currently I'm learning devOps and polishing my existing skills.I love solving problems related with backend. </h3>
+
+
 
 
 ## 🌐 Socials:
