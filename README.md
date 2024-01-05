@@ -1,7 +1,7 @@
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Sankat Mochan</h1> -->
 <h1 align="center">Hi , I'm Rajiv Kumawat</h1>
-<h3 align="center">A passionate MERN Stack Developer and currently I'm learning devOps and polishing my existing skills. </h3>
+<h3 align="center">A passionate full Stack Developer and currently I'm learning devOps and polishing my existing skills. </h3>
 
 ## 🚀 Languages and Tools:
 
@@ -36,10 +36,10 @@
 
   <br/>
     <a href="https://github.com/rajivkumawat3
-/github-readme-stats"><img alt="Sankat Mochan Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajivkumawat3
+/github-readme-stats"><img alt="Rajiv Kumawat Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajivkumawat3
 &show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/rajivkumawat3
-/github-readme-stats"><img alt="Sankat Mochan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivkumawat3
+/github-readme-stats"><img alt="Rajiv Kumawat Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivkumawat3
 &langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
