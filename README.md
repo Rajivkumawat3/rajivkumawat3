@@ -1,6 +1,5 @@
 # 💫 About Me:
-A passionate Full Stack Developer(Backend Focus) and currently I'm learning devOps and polishing my existing skills.I love solving problems related with backend.
-
+A full stack developer with a passion for building beautiful and functional websites.
 
 
 
