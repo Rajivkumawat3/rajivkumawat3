@@ -1,5 +1,5 @@
 # 🎯 About Me:
-I am a pre-final year integrated B.Tech (IT) + MBA student at IIIT Gwalior with a strong foundation in software development and problem-solving. My journey spans multiple internships, where I honed my skills in creating robust and scalable solutions. Currently, I am excited to explore opportunities in software development, DevOps, and AI-driven technologies.I aim to contribute to innovative projects that create a real-world impact. With a blend of technical and managerial skills, I’m driven to bridge the gap between technology and strategic growth.
+I am a pre-final year integrated B.Tech (IT) student at IIIT Gwalior with a strong foundation in software development and problem-solving. Through multiple internships, I have honed my skills in building robust and scalable solutions. Currently, I am exploring opportunities in software development and DevOps, aiming to contribute to innovative projects with real-world impact.
 
 
 
