@@ -1,11 +1,11 @@
 # 🎯 About Me:
-💻 I’m a final year Integrated B.Tech (IT) student at IIIT Gwalior with a strong foundation in backend development, systems design, and scalable architecture.
+💻 I’m a final year Integrated B.Tech (IT) student at IIIT Gwalior with a strong foundation in backend development and a deep curiosity about how systems work — from understanding and designing them to coding scalable solutions.
 
-🧠 I've completed multiple software development internships where I built and optimized backend services, designed RESTful APIs, and worked on real-world system architectures.
+🧠 Through internships and projects, I’ve built robust backend services, integrated cloud and payment systems, and worked on optimizing real-world architectures.
 
-⚙️ I'm also exploring DevOps workflows — containerization, CI/CD, and cloud-native tools — to better understand how large systems operate in production.
+⚙️ I’m also exploring DevOps workflows — Docker, CI/CD, Kubernetes — to understand how reliable systems are deployed and scaled in production.
 
-🚀 Seeking to contribute to backend or DevOps teams solving real-world scalability and reliability challenges through clean architecture and efficient system design.
+🚀 I'm seeking to contribute to backend or platform teams solving real-world performance and reliability challenges.
 
 ---
 
