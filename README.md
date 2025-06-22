@@ -5,7 +5,8 @@
 
 ⚙️ I'm also exploring DevOps workflows — containerization, CI/CD, and cloud-native tools — to better understand how large systems operate in production.
 
-🚀 I'm actively seeking opportunities to contribute to innovative backend or platform engineering teams that focus on building reliable, scalable, and maintainable systems.
+🚀 Seeking to contribute to backend or DevOps teams solving real-world scalability and reliability challenges through clean architecture and efficient system design.
+
 ---
 
 <table>
