@@ -3,7 +3,7 @@
 
 🧠 Through internships and projects, I’ve built robust backend services, integrated cloud and payment systems, and worked on optimizing real-world architectures.
 
-⚙️ I’m also exploring DevOps workflows — Docker, CI/CD, Kubernetes — to understand how reliable systems are deployed and scaled in production.
+⚙️  I’m curious about DevOps and cloud workflows — exploring Docker, CI/CD, Kubernetes, and AWS services — to understand how reliable systems are deployed and scaled in production.
 
 🚀 I'm seeking to contribute to backend or platform teams solving real-world performance and reliability challenges.
 
